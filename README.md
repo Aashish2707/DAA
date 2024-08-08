@@ -1,1 +1,1 @@
-Bubble sort, insetion sort, selection sort -[sorting]
+Bubble sort, insetion sort, selection sort -Sorting.ipynb
